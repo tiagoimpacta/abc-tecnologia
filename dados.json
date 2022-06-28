@@ -1,0 +1,38 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "titulo": "Programador Java"
+    },
+    {
+      "id": 2,
+      "titulo": "Analista de Dados"
+    },
+    {
+      "id": 3,
+      "titulo": "Professor Excel"
+    },
+    {
+      "id": 4,
+      "titulo": "Dev. Front-End"
+    }
+  ],
+  "candidatos": [
+    {
+      "nome": "Tiago Bezerra dos Santos",
+      "data": "1983-09-24",
+      "telefone": "11 2222 3333",
+      "email": "professor.tiagobsantos@gmail.com",
+      "vaga": "Professor Excel",
+      "id": 1
+    },
+    {
+      "nome": "Rafael Martins",
+      "data": "2002-08-12",
+      "telefone": "11 5555-4444",
+      "email": "rafael@hotmail.com",
+      "vaga": "Analista de Dados",
+      "id": 2
+    }
+  ]
+}
